@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "590990929706",
+    "project_id": "appointmenthub-e9afc37c",
+    "storage_bucket": "appointmenthub-e9afc37c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590990929706:android:461e4d46561d505af7f853",
+        "android_client_info": {
+          "package_name": "com.tanvir.appointmenthub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCz3ksVXq44WTaiv-MstuKUNrnkJ6yjd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
